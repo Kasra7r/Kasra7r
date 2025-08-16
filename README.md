@@ -10,7 +10,7 @@ I'm a Front-End Developer passionate about building interactive and user-friendl
 - [Personal Portfolio Website](https://kasra7r.github.io/Personal-Portfolio-Website/) – My personal website and portfolio.
 - [Memory Flip Game](https://kasra7r.github.io/MemoryGame/) – A fun memory game built with JavaScript.
 - [ToDo List](https://kasra7r.github.io/ToDoLiast/) – A simple task manager app using local storage.
-- [Weather App](https://kasra7r.github.io/Weather-App/) – A weather forecast app using API and JavaScript.
+- [Weather App](https://kasra7r.github.io/neon-weather/) – A weather forecast app using API and JavaScript.
 - 
 ## 📫 Contact
 - Email: kasrarostami70@gmail.com  
