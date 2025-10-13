@@ -1,18 +1,47 @@
-# 👋 Hi, I'm Kasra
+👋 Hi, I'm Kasra  
+Hallo, ich bin Kasra
 
-I'm a Front-End Developer passionate about building interactive and user-friendly web applications. I love learning new technologies and improving my coding skills every day.
+I'm a Front-End Developer passionate about building interactive and user-friendly web applications. I love learning new technologies and improving my coding skills every day.  
+Ich bin Front-End-Entwickler und begeistert davon, interaktive und benutzerfreundliche Webanwendungen zu erstellen. Ich liebe es, neue Technologien zu lernen und meine Programmierfähigkeiten täglich zu verbessern.
 
-## 💻 Tech Stack
-- HTML | CSS | JavaScript
-- React | Git | GitHub
+---
 
-## 📂 Projects
-- [Personal Portfolio Website](https://kasra7r.github.io/Personal-Portfolio-Website/) – My personal website and portfolio.
-- [Memory Flip Game](https://kasra7r.github.io/MemoryGame/) – A fun memory game built with JavaScript.
-- [ToDo List](https://kasra7r.github.io/ToDoLiast/) – A simple task manager app using local storage.
-- [Weather App](https://kasra7r.github.io/neon-weather/) – A weather forecast app using API and JavaScript.
-- 
-## 📫 Contact
+💻 Skills / Kenntnisse
+
+**Programming Languages / Programmiersprachen:**  
+JavaScript (DOM, ES6) | Python (basic knowledge)  
+JavaScript (DOM, ES6) | Python (Grundkenntnisse)
+
+**Web Technologies / Webtechnologien:**  
+HTML5 | CSS3 | Responsive Design (Flexbox, Grid) | REST APIs | JSON  
+HTML5 | CSS3 | Responsive Design (Flexbox, Grid) | REST APIs | JSON
+
+**Concepts / Konzepte:**  
+DOM manipulation | Asynchronous programming | Object-oriented programming
+DOM-Manipulation | Asynchrone Programmierung | Objektorientierte Programmierung
+
+**Version Control & Tools / Versionsverwaltung & Tools:**  
+Git | GitHub | VS Code | Chrome DevTools  
+Git | GitHub | VS Code | Chrome DevTools
+
+---
+
+📂 Projects / Projekte
+
+- **[Personal Portfolio Website](https://kasra7r.github.io/Personal-Portfolio-Website/)** – My personal website and portfolio.  
+  Meine persönliche Website und Portfolio.
+- **[Memory Flip Game](https://kasra7r.github.io/Memory-Game/)** – A fun memory game built with JavaScript.  
+  Ein lustiges Memory-Spiel, gebaut mit JavaScript.
+- **[ToDo List](https://kasra7r.github.io/ToDoList/)** – A simple task manager app using local storage.  
+  Ein einfacher Aufgaben-Manager mit Local Storage.
+- **[Neon Weather](https://kasra7r.github.io/neon-weather/)** – A weather forecast app using API and JavaScript.  
+  Eine Wetter-App mit API und JavaScript.
+
+---
+
+📫 Contact / Kontakt
+
 - Email: kasrarostami70@gmail.com  
-- [LinkedIn](https://www.linkedin.com/in/kasra7r/)
+- LinkedIn: (https://www.linkedin.com/in/kasra7r/)
 
+---
