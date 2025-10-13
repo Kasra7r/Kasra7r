@@ -9,20 +9,16 @@ Ich bin Front-End-Entwickler und begeistert davon, interaktive und benutzerfreun
 💻 Skills / Kenntnisse
 
 **Programming Languages / Programmiersprachen:**  
-JavaScript (DOM, ES6) | Python (basic knowledge)  
-JavaScript (DOM, ES6) | Python (Grundkenntnisse)
+JavaScript (DOM, ES6) | Python
 
 **Web Technologies / Webtechnologien:**  
 HTML5 | CSS3 | Responsive Design (Flexbox, Grid) | REST APIs | JSON  
-HTML5 | CSS3 | Responsive Design (Flexbox, Grid) | REST APIs | JSON
 
 **Concepts / Konzepte:**  
 DOM manipulation | Asynchronous programming | Object-oriented programming
-DOM-Manipulation | Asynchrone Programmierung | Objektorientierte Programmierung
 
 **Version Control & Tools / Versionsverwaltung & Tools:**  
 Git | GitHub | VS Code | Chrome DevTools  
-Git | GitHub | VS Code | Chrome DevTools
 
 ---
 
@@ -42,6 +38,6 @@ Git | GitHub | VS Code | Chrome DevTools
 📫 Contact / Kontakt
 
 - Email: kasrarostami70@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/kasra7r/)
+- LinkedIn: https://www.linkedin.com/in/kasra7r/
 
 ---
