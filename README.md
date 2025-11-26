@@ -1,43 +1,189 @@
-👋 Hi, I'm Kasra  
-Hallo, ich bin Kasra
-
-I'm a Front-End Developer passionate about building interactive and user-friendly web applications. I love learning new technologies and improving my coding skills every day.  
-Ich bin Front-End-Entwickler und begeistert davon, interaktive und benutzerfreundliche Webanwendungen zu erstellen. Ich liebe es, neue Technologien zu lernen und meine Programmierfähigkeiten täglich zu verbessern.
+<h1 align="center">Hi 👋, I'm Kasra</h1>
+<h3 align="center">Full-Stack Developer | React & Node.js Enthusiast | Problem Solver</h3>
 
 ---
 
-💻 Skills / Kenntnisse
+# 🇬🇧 English Version
 
-**Programming Languages / Programmiersprachen:**  
-JavaScript (DOM, ES6) | Python
-
-**Web Technologies / Webtechnologien:**  
-HTML5 | CSS3 | Responsive Design (Flexbox, Grid) | REST APIs | JSON  
-
-**Concepts / Konzepte:**  
-DOM manipulation | Asynchronous programming | Object-oriented programming
-
-**Version Control & Tools / Versionsverwaltung & Tools:**  
-Git | GitHub | VS Code | Chrome DevTools  
+## 🔥 About Me
+- 💻 Full-stack developer specializing in **React**, **Node.js**, **MongoDB**
+- 🐍 Beginner-level Python for automation & scripting
+- 🚀 Passionate about building modern, fast, scalable applications
+- 🤖 Interested in AI, chatbots, automation, and cloud tools
+- 🎨 Love creating clean UI/UX with smooth interactions
+- 🌍 Open to remote work and global collaboration
 
 ---
 
-📂 Projects / Projekte
+## 🛠 Tech Stack
 
-- **[Personal Portfolio Website](https://kasra7r.github.io/Personal-Portfolio-Website/)** – My personal website and portfolio.  
-  Meine persönliche Website und Portfolio.
-- **[Memory Flip Game](https://kasra7r.github.io/Memory-Game/)** – A fun memory game built with JavaScript.  
-  Ein lustiges Memory-Spiel, gebaut mit JavaScript.
-- **[ToDo List](https://kasra7r.github.io/ToDoList/)** – A simple task manager app using local storage.  
-  Ein einfacher Aufgaben-Manager mit Local Storage.
-- **[Neon Weather](https://kasra7r.github.io/neon-weather/)** – A weather forecast app using API and JavaScript.  
-  Eine Wetter-App mit API und JavaScript.
+### **Programming Languages**
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</div>
+
+### **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,materialui,bootstrap" />
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+</div>
+
+### **Tools**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</div>
 
 ---
 
-📫 Contact / Kontakt
+## 📌 Featured Projects
 
-- Email: kasrarostami70@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/kasra7r/
+### 🔹 **PageCraft CMS (Full-Stack)**
+A complete CMS dashboard featuring:
+- JWT Authentication  
+- Role-based access  
+- Realtime Chat (Socket.io)  
+- Notes, Calendar & Analytics  
+- Multilingual support (EN, DE, FR, FA, IT)  
+- AI Chatbot (GPT-4o)
 
 ---
+
+### 🔹 **Personal Portfolio Website**
+A modern animated portfolio with clean UI and responsive design.  
+🔗 Live Demo: https://kasra7r.github.io/Personal-Portfolio-Website/
+
+---
+
+### 🔹 **Neon Weather App**
+A futuristic neon-themed weather app with real-time weather data.  
+🔗 Live Demo: https://kasra7r.github.io/neon-weather/
+
+---
+
+### 🔹 **Memory Game**
+A fun animated memory game with challenge levels.  
+🔗 Live Demo: https://kasra7r.github.io/MemoryGame/
+
+---
+
+### 🔹 **To-Do List App**
+A clean and fast to-do list app for managing daily tasks.  
+🔗 Live Demo: https://kasra7r.github.io/ToDoList/
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kasra7r&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasra7r&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+# 🇩🇪 Deutsche Version
+
+## 🔥 Über mich
+- 💻 Full-Stack-Entwickler mit Fokus auf **React**, **Node.js**, **MongoDB**
+- 🐍 Grundkenntnisse in Python für Automatisierung & Skripting
+- 🚀 Ich entwickle moderne, schnelle und skalierbare Webapplikationen
+- 🤖 Begeistert von KI, Chatbots und Automatisierung
+- 🎨 Leidenschaft für Clean Code und gute Benutzererfahrung
+- 🌍 Offen für Remote-Arbeit und internationale Zusammenarbeit
+
+---
+
+## 🛠 Tech-Stack
+
+### **Programmiersprachen**
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,python" />
+</div>
+
+### **Frontend**
+<div>
+  <img src="https://skillicons.dev/icons?i=react,redux,html,css,materialui,bootstrap" />
+</div>
+
+### **Backend**
+<div>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql" />
+</div>
+
+### **Werkzeuge**
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode" />
+</div>
+
+---
+
+## 📌 Ausgewählte Projekte
+
+### 🔹 **PageCraft CMS (Full-Stack)**
+Ein komplettes CMS-Dashboard mit:
+- JWT-Authentifizierung  
+- Rollenbasierter Zugriff  
+- Echtzeit-Chat (Socket.io)  
+- Notizen, Kalender & Analysen  
+- Mehrsprachigkeit (EN, DE, FR, FA, IT)  
+- KI-Chatbot (GPT-4o)
+
+---
+
+### 🔹 **Personal Portfolio Website**
+Ein modernes Portfolio mit Animationen und responsivem Design.  
+🔗 Live Demo: https://kasra7r.github.io/Personal-Portfolio-Website/
+
+---
+
+### 🔹 **Neon Weather App**
+Eine futuristische Neon-Wetter-App mit Echtzeitdaten.  
+🔗 Live Demo: https://kasra7r.github.io/neon-weather/
+
+---
+
+### 🔹 **Memory Game**
+Ein unterhaltsames Memory-Spiel mit Animationen und Levels.  
+🔗 Live Demo: https://kasra7r.github.io/MemoryGame/
+
+---
+
+### 🔹 **To-Do List App**
+Eine einfache, klare und schnelle To-Do-Listen-App.  
+🔗 Live Demo: https://kasra7r.github.io/ToDoList/
+
+---
+
+## 📊 GitHub Statistiken
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kasra7r&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kasra7r&theme=tokyonight" />
+</div>
+
+---
+
+## 🌐 Kontakt
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">Made with ❤️ by Kasra</p>
