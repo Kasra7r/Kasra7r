@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kasra</h1>
-<h3 align="center">Full-Stack Developer | React & Node.js Enthusiast | Problem Solver</h3>
+<h3 align="center">Full-Stack Developer | I love exploring every part of web development—frontend, backend, UI/UX, performance, and everything in between. | Problem Solver</h3>
 
 ---
 
@@ -87,7 +87,7 @@ A clean and fast to-do list app for managing daily tasks.
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/Kasra7R/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
@@ -97,7 +97,7 @@ A clean and fast to-do list app for managing daily tasks.
 # 🇩🇪 Deutsche Version
 
 ## 🔥 Über mich
-- 💻 Full-Stack-Entwickler mit Fokus auf **React**, **Node.js**, **MongoDB**
+- 💻 Full-Stack-Entwickler. Ich liebe es, jeden Bereich der Webentwicklung zu erkunden – Frontend, Backend, UI/UX, Performance und alles dazwischen.
 - 🐍 Grundkenntnisse in Python für Automatisierung & Skripting
 - 🚀 Ich entwickle moderne, schnelle und skalierbare Webapplikationen
 - 🤖 Begeistert von KI, Chatbots und Automatisierung
@@ -179,7 +179,7 @@ Eine einfache, klare und schnelle To-Do-Listen-App.
 ## 🌐 Kontakt
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://linkedin.com/in/Kasra7R/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
