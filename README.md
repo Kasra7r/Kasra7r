@@ -199,7 +199,3 @@ Eine einfache, klare und schnelle To-Do-Listen-App.
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
----
-
-<p align="center">Made with ❤️ by Kasra</p>
