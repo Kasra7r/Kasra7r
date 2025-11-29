@@ -7,7 +7,7 @@
 
 ## 🔥 About Me
 - 💻 Full-stack developer specializing in **React**, **Node.js**, **MongoDB**
-- 🐍 Beginner-level Python for automation & scripting
+- 🐍 Solid foundational **Python** skills for scripting and automation
 - 🚀 Passionate about building modern, fast, scalable applications
 - 🤖 Interested in AI, chatbots, automation, and cloud tools
 - 🎨 Love creating clean UI/UX with smooth interactions
@@ -48,7 +48,15 @@ A complete CMS dashboard featuring:
 - Realtime Chat (Socket.io)  
 - Notes, Calendar & Analytics  
 - Multilingual support (EN, DE, FR, FA, IT)  
-- AI Chatbot (GPT-4o)
+- AI Chatbot (GPT-4o)  
+
+🔗 GitHub: https://github.com/Kasra7r/cms-project
+
+---
+
+### 🔹 **Azubi Budget Manager**
+A budgeting web app designed to help trainees (Azubis) manage their monthly income, expenses, and savings goals in a clear and structured way.  
+🔗 GitHub: https://github.com/Kasra7r/azubi_budget_manager
 
 ---
 
@@ -98,7 +106,7 @@ A clean and fast to-do list app for managing daily tasks.
 
 ## 🔥 Über mich
 - 💻 Full-Stack-Entwickler. Ich liebe es, jeden Bereich der Webentwicklung zu erkunden – Frontend, Backend, UI/UX, Performance und alles dazwischen.
-- 🐍 Grundkenntnisse in Python für Automatisierung & Skripting
+- 🐍 Solide **Python**-Grundlagen, vor allem für Scripting und Automatisierung
 - 🚀 Ich entwickle moderne, schnelle und skalierbare Webapplikationen
 - 🤖 Begeistert von KI, Chatbots und Automatisierung
 - 🎨 Leidenschaft für Clean Code und gute Benutzererfahrung
@@ -135,11 +143,19 @@ A clean and fast to-do list app for managing daily tasks.
 ### 🔹 **PageCraft CMS (Full-Stack)**
 Ein komplettes CMS-Dashboard mit:
 - JWT-Authentifizierung  
-- Rollenbasierter Zugriff  
+- Rollenbasiertem Zugriff  
 - Echtzeit-Chat (Socket.io)  
 - Notizen, Kalender & Analysen  
 - Mehrsprachigkeit (EN, DE, FR, FA, IT)  
-- KI-Chatbot (GPT-4o)
+- KI-Chatbot (GPT-4o)  
+
+🔗 GitHub: https://github.com/Kasra7r/cms-project
+
+---
+
+### 🔹 **Azubi Budget Manager**
+Eine Budget-Management-Webapp für Auszubildende, um Einkommen, Ausgaben und Sparziele strukturiert im Blick zu behalten.  
+🔗 GitHub: https://github.com/Kasra7r/azubi_budget_manager
 
 ---
 
